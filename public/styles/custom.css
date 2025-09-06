@@ -1,0 +1,9 @@
+:root {
+  --accent:green;
+}
+
+.card {
+  font-size: larger;
+  color: red;
+}
+
